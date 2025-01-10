@@ -72,7 +72,7 @@ pip install pandas matplotlib seaborn plotly
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/unemployment-india-analysis.git
+git clone https://github.com/Tibson-spec/OPTIFY.git
 ```
 
 2. Navigate to the project folder:
