@@ -135,7 +135,7 @@ time_series = unemployment_data.groupby(unemployment_data['Date'].dt.to_period('
 
 **Visualization:**
 
-![Unemployment Rate Over Time](url_to_image)
+![Unemployment Rate Over Time](https://github.com/Tibson-spec/OPTIFY/blob/main/TASK%201/avg%20unemp%20overtime.png?raw=true)
 
 ### **Regional Unemployment Rates**
 
