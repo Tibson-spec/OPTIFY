@@ -147,7 +147,7 @@ Region_data = unemployment_data.groupby('Region')['Estimated Unemployment Rate (
 
 **Visualization:**
 
-![Regional Unemployment Rates](url_to_image)
+![Regional Unemployment Rates](https://github.com/Tibson-spec/OPTIFY/blob/main/TASK%201/avg%20unempl%20by%20reg.png?raw=true)
 
 ### **Rural vs Urban Unemployment**
 
