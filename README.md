@@ -357,12 +357,12 @@ plt.show()
 ### Confusion Matrix
 The confusion matrix shows how well the model performs by comparing the true labels and the predicted labels:
 
-![Confusion Matrix](assets/confusion_matrix.png)
+![Confusion Matrix](https://github.com/Tibson-spec/OPTIFY/blob/main/TASK%20%203/confusion%20matrix.png?raw=true)
 
-### Decision Boundaries (Optional)
-To visualize how the model is classifying data, we can reduce the dimensions of the dataset using PCA and plot the decision boundaries:
+### Box plot
+To visualize how the features is being distributed
 
-![Decision Boundaries](assets/decision_boundaries.png)
+![Box plot](assets/decision_boundaries.png)
 
 ---
 
