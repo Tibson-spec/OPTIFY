@@ -159,7 +159,7 @@ Area_data = unemployment_data.groupby('Area')['Estimated Unemployment Rate (%)']
 
 **Visualization:**
 
-![Rural vs Urban Unemployment](url_to_image)
+![Rural vs Urban Unemployment](https://github.com/Tibson-spec/OPTIFY/blob/main/TASK%201/rural%20versus%20urban.png?raw=true)
 
 ### **Labor Participation vs Employment**
 
