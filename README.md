@@ -171,7 +171,7 @@ plt.scatter(unemployment_data['Estimated Labour Participation Rate (%)'], unempl
 
 **Visualization:**
 
-![Labor Participation vs Employment](url_to_image)
+![Labor Participation vs Employment](https://github.com/Tibson-spec/OPTIFY/blob/main/TASK%201/labour%20partc%20versus%20employment.png?raw=true)
 
 ---
 
