@@ -362,7 +362,7 @@ The confusion matrix shows how well the model performs by comparing the true lab
 ### Box plot
 To visualize how the features is being distributed
 
-![Box plot](assets/decision_boundaries.png)
+![Box plot](https://github.com/Tibson-spec/OPTIFY/blob/main/TASK%20%203/box%20plot.png?raw=true)
 
 ---
 
