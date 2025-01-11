@@ -211,6 +211,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ### **Conclusion**
 
-Thank you for exploring this analysis of unemployment trends in India! This repository aims to provide insights that can help shape policies and contribute to future research in addressing unemployment challenges. If you have any questions or suggestions, feel free to open an issue or submit a pull request.
-
+Thank you for exploring this analysis of unemployment trends in India! This repository aims to provide insights that can help shape policies and contribute to future research in addressing unemployment challenges.
 ---
